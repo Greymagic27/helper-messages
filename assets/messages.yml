@@ -424,7 +424,7 @@ messages:
       category: duplicate
       message: |-
         **Thank you for your report!**
-        We're tracking this issue in **%s%**, so this ticket is being resolved and linked as a **duplicate**.
+        We're tracking this issue in https://report.bugs.mojang.com/servicedesk/customer/portal/%project_id%/%s% , so this ticket is being resolved and linked as a **duplicate**.
 
         That ticket has already been resolved as Fixed. Please check the Fix Version/s field in that ticket to see in which version this behavior was or will be fixed.
 
@@ -448,7 +448,7 @@ messages:
       category: duplicate
       message: |-
         **Thank you for your report!**
-        We're tracking this issue in **%s%**, so this ticket is being resolved and linked as a **duplicate**.
+        We're tracking this issue in https://report.bugs.mojang.com/servicedesk/customer/portal/%project_id%/%s% , so this ticket is being resolved and linked as a **duplicate**.
 
         That ticket has already been resolved as invalid. Please take a look at the parent ticket (%s%) and see if an explanation is provided there in the description of the ticket or in the comments for why this issue is invalid.
 
