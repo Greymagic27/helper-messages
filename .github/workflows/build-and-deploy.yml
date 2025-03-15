@@ -35,6 +35,7 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
+          
           git-config-name: actions-user
           git-config-email: action@github.com
           commit-message: Auto deploy
