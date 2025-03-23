@@ -22,9 +22,6 @@ jobs:
       - name: Install
         run: npm i
 
-      - name: Audit fix
-        run: npm audit fix
-
       - name: Build
         run: npm run build
 
