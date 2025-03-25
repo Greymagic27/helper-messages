@@ -30,7 +30,7 @@ for (const {category, name} of categories) {
 /**
  * Main app entry point
  */
-$(document).ready(function () {
+$(document).jquery(function () {
   // Detect project identifier in URL
   const url = window.location.href;
   if (!url.includes('#')) {
@@ -77,6 +77,12 @@ $(document).ready(function () {
 
   // Update messages in dropdown
   updateDisplay();
+
+  // Search bar event listener
+  $("#searchBar").on("input", function () {
+    let searchTerm = $(this).val().toLowerCase();
+    filterMessages(searchTerm);
+  });
 });
 
 /**
@@ -241,6 +247,31 @@ function updateDisplay() {
   $(".form-select").html(text);
 
   updateDisplayedMessage(selectedMessage);
+}
+
+/**
+ * Filters the messages in the dropdown based on search input
+ * @param {string} searchTerm The text input for filtering messages
+ */
+function filterMessages(searchTerm) {
+  let text = '<option value="">Select a message...</option>';
+  let messageMap = new Map();
+
+  for (const [messageId, message] of dropdownMap.entries()) {
+      if (message.name.toLowerCase().includes(searchTerm)) {
+          let catText = messageMap.get(message.category);
+          const option = `<option value="${messageId}">${message.name}</option>`;
+          catText = catText ? catText + option : option;
+          messageMap.set(message.category, catText);
+      }
+  }
+
+  // Sort categories and update dropdown
+  for (const [category, options] of messageMap.entries()) {
+      text += `<optgroup label="${categoryMap.get(category) || category}">${options}</optgroup>`;
+  }
+
+  $(".form-select").html(text);
 }
 
 /**
