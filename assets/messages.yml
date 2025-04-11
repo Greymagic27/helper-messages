@@ -1426,8 +1426,6 @@ messages:
         **Thank you for your report!**
         However, this issue is **Working as Intended**.
 
-        The report you have submitted is working as intended: %s%.
-
         Please note, that mechanics of the game may change between updates.
         Things such as graphics, sounds, world creation, biomes, redstone, villagers, and animals may not work the same in current versions.
 
@@ -1445,8 +1443,6 @@ messages:
         **Thank you for your report!**
         However, this issue is **Working as Intended**.
 
-        The report you have submitted is working as intended: %s%.
-
         Please note, that mechanics of the game may change between updates.
         Things such as graphics, sounds, world creation, biomes, redstone, villagers, and animals may not work the same in current versions.
 
@@ -1461,8 +1457,6 @@ messages:
       message: |-
         **Thank you for your report!**
         However, this issue is **Working as Intended**.
-
-        The report you have submitted is working as intended: %s%.
 
         Please note, that mechanics of the game may change between updates.
         Things such as graphics, sounds, world creation, biomes, redstone, villagers, and animals may not work the same in current versions.
