@@ -264,7 +264,7 @@ messages:
         However, this issue is **Invalid**.
 
         This is an account issue. We do not have the tools to help you with this issue on this bug tracker.
-        Please have a look at the help article "[Why have I been banned from Minecraft?](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)" and the [Community Standards](https://www.minecraft.net/en-us/community-standards).
+        Please have a look at the help article "[Banned Minecraft Accounts and the Appeal Process](https://help.minecraft.net/hc/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)" and the [Community Standards](https://www.minecraft.net/community-standards).
         To request a case review of a ban, please contact Mojang Support through [this page](https://aka.ms/Case-Review-Minecraft).
 
         %quick_links%
@@ -279,7 +279,7 @@ messages:
         However, this issue is **Invalid**.
 
         This is an account issue. We do not have the tools to help you with this issue on this bug tracker.
-        Please have a look at the [Community Standards](https://www.minecraft.net/en-us/community-standards) for guidelines that players are expected to follow.
+        Please have a look at the [Community Standards](https://www.minecraft.net/community-standards) for guidelines that players are expected to follow.
         To learn more about player reporting, potential causes for a ban, and instructions regarding how to request a case review of a ban, please visit the [Minecraft: Java Edition Player Reporting FAQ page](https://aka.ms/chatreportingfaq).
 
         %quick_links%
@@ -728,7 +728,7 @@ messages:
 
         Simply stating that "My game is laggy" is not helpful for Mojang to diagnose your issue. If you can pinpoint a specific cause when lag happens for you, please open a new report for that specific issue. If you think this might be a hardware issue please contact **%help_discord%** as they might be able to help with your issue.
 
-        Keep in mind that Mojang is constantly optimizing the game and simply playing the game provides feedback to Mojang on which parts cause performance issues. To learn more about this, head [here](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-19-3) (section "Telemetry") for more information.
+        Keep in mind that Mojang is constantly optimizing the game and simply playing the game provides feedback to Mojang on which parts cause performance issues. To learn more about this, head [here](https://www.minecraft.net/article/minecraft-java-edition-1-19-3) (section "Telemetry") for more information.
 
         %quick_links%
       fillname: []
@@ -770,7 +770,7 @@ messages:
         **Thank you for your report!**
         However, this issue is **Invalid**.
 
-        Unfortunately we don't accept issues related to third party Marketplace content here on the bug tracker, but you may wish to contact the content creators directly. Marketplace partners have their own support channels for resolving issues affecting their content. Please visit the [Marketplace FAQ](https://feedback.minecraft.net/hc/en-us/articles/360004166751-Marketplace-FAQ) section "I have a problem with the Minecraft world I purchased" for more information, including contact links for some of the Marketplace partners.
+        Unfortunately we don't accept issues related to third party Marketplace content here on the bug tracker, but you may wish to contact the content creators directly. Marketplace partners have their own support channels for resolving issues affecting their content. Please visit the [Marketplace FAQ](https://feedback.minecraft.net/hc/articles/360004166751-Marketplace-FAQ) section "I have a problem with the Minecraft world I purchased" for more information, including contact links for some of the Marketplace partners.
         "Minecraft"-branded content should be reported here on the bug tracker.
 
         %quick_links%
