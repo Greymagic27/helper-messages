@@ -19,56 +19,45 @@ variables:
         - realms
         - web
       value: "[Community Support](https://discord.com/invite/minecraft)"
-    - project: mcd
-      value: "[Community Support](https://discord.com/invite/minecraft)"
-    - project: mclg
-      value: "[Community Support](https://discord.com/invite/minecraft)"
 
   quick_links:
     - project: bds
       value: |-
         *Quick Links*:
-        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [BDS Wiki](https://minecraft.wiki/w/Bedrock_Dedicated_Server) -- 📖 [FAQs](https://help.minecraft.net/hc/articles/4408873961869)
+        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/)
+        📓 [Project Summary](https://report.bugs.mojang.com/servicedesk/customer/portal/4) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [BDS Wiki](https://minecraft.wiki/w/Bedrock_Dedicated_Server) -- 📖 [FAQs](https://help.minecraft.net/hc/articles/4408873961869)
     - project: mc
       value: |-
         *Quick Links*:
-        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki)
-    - project: mcd
-      value: |-
-        *Quick Links*:
-        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki) -- 📖 [FAQs](https://help.minecraft.net/hc/articles/360041345271)
+        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/)
+        📓 [Project Summary](https://report.bugs.mojang.com/servicedesk/customer/portal/2) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki)
     - project: mcl
       value: |-
         *Quick Links*:
-        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki)
-    - project: mclg
-      value: |-
-        *Quick Links*:
-        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki) -- 📖 [FAQs](https://help.minecraft.net/hc/articles/360041345271)
+        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/)
+         📓 [Project Summary](https://report.bugs.mojang.com/servicedesk/customer/portal/7) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki)
     - project: mcpe
       value: |-
         *Quick Links*:
-        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki)
+        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/)
+        📓 [Project Summary](https://report.bugs.mojang.com/servicedesk/customer/portal/6) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki)
     - project: realms
       value: |-
         *Quick Links*:
-        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki) -- 📖 [FAQs](https://help.minecraft.net/hc/articles/4409247032845)
+       📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/)
+        📓 [Project Summary](https://report.bugs.mojang.com/servicedesk/customer/portal/9) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki) -- 📖 [FAQs](https://www.minecraft.net/en-us/article/what-are-minecraft-realms)
     - project: web
       value: |-
         *Quick Links*:
-        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki)
-
+        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/)
+        📓 [Project Summary](https://report.bugs.mojang.com/servicedesk/customer/portal/10) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki)
   project_id:
     - project: mc
       value: '2'
-    - project: mcd
-      value: '3'
     - project: mcpe
       value: '6'
     - project: mcl
       value: '7'
-    - project: mclg
-      value: '8'
     - project: bds
       value: '4'
     - project: realms
@@ -79,10 +68,8 @@ variables:
   awaiting_response:
     - project:
         - mc
-        - mcd
         - mcpe
         - mcl
-        - mclg
         - bds
         - realms
         - web
@@ -93,9 +80,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
         - web
@@ -191,8 +176,6 @@ messages:
         - mcl
         - mcpe
         - bds
-        - mcd
-        - mclg
         - realms
       name: Attach video (PC)
       shortcut: vid
@@ -258,7 +241,6 @@ messages:
     - project:
       - bds
       - mc
-      - mcd
       - mcl
       - mcpe
       - realms
@@ -271,8 +253,6 @@ messages:
       fillname: []
   banned:
     - project:
-        - mcd
-        - mclg
         - mcpe
         - realms
         - web
@@ -337,22 +317,6 @@ messages:
 
         %quick_links%
       fillname: []
-    - project:
-        - mcd
-        - mclg
-      name: Crash logged automatically
-      shortcut: autocrash
-      category: invalid
-      message: |-
-        **Thank you for your report!**
-        However, this issue is **Invalid**.
-
-        Crashes are logged automatically and sent to Mojang if you press the "Send" button after the crash occurs.
-
-        If you need help or have a suggestion, you might like to follow a link below.
-
-        %quick_links%
-      fillname: []
   debug-stick:
     - project: mc
       name: Debug Stick
@@ -387,9 +351,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -412,9 +374,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -437,7 +397,6 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
         - mcpe
         - mctest
@@ -461,9 +420,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -484,9 +441,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -510,9 +465,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -535,9 +488,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -560,9 +511,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -617,9 +566,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
       name: Feature request
@@ -638,9 +585,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
         - mctest
@@ -686,9 +631,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -706,9 +649,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -742,8 +683,6 @@ messages:
       fillname: []
     - project:
         - bds
-        - mcd
-        - mclg
         - mcpe
         - realms
         - web
@@ -925,9 +864,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
       name: Multiple issues in one report
@@ -946,9 +883,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -982,9 +917,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -1010,9 +943,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -1027,9 +958,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -1044,9 +973,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -1061,9 +988,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -1081,9 +1006,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -1098,9 +1021,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
       name: Panel - Added affected version to resolved ticket
@@ -1117,9 +1038,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -1134,9 +1053,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -1191,9 +1108,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - mctest
         - realms
@@ -1241,9 +1156,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
         - web
@@ -1277,9 +1190,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
         - web
@@ -1292,9 +1203,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
         - web
@@ -1317,9 +1226,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
         - web
@@ -1346,9 +1253,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
         - web
@@ -1368,8 +1273,6 @@ messages:
     - project:
         - mc
         - mcl
-        - mclg
-        - mcd
         - mcpe
         - realms
       name: Temporary Service Outage
@@ -1469,9 +1372,7 @@ messages:
     - project:
         - bds
         - mc
-        - mcd
         - mcl
-        - mclg
         - mcpe
         - realms
         - web
@@ -1503,12 +1404,12 @@ messages:
         However, you have created the report for the wrong project, therefore it is being moved to the correct project. As a result of the move, some information might have become lost or incorrect. **Please check whether the report is still correct and complete, and if necessary, edit it accordingly.**
 
         These are the projects where bugs for the respective game version are tracked:
-        -- [Minecraft: Java Edition|https://bugs.mojang.com/browse/MC] --- Windows, macOS, and Linux
-        -- [Minecraft Launcher|https://bugs.mojang.com/browse/MCL] --- Bugs about the Minecraft Launcher specifically
-        -- [Minecraft (Bedrock codebase)|https://bugs.mojang.com/browse/MCPE] --- Android, iOS, Windows 10/11, ChromeOS, Xbox, Nintendo Switch, PlayStation, and Amazon Fire
-        -- [Minecraft Bedrock Dedicated Server|https://bugs.mojang.com/browse/BDS] --- Bugs about the Bedrock Dedicated Server software
-        -- [Minecraft Realms|https://bugs.mojang.com/browse/REALMS] --- Bugs which only occur on Realms but not in singleplayer or on third-party servers
-        -- [Mojang Web Services|https://bugs.mojang.com/browse/WEB] --- Bugs about the various web services, including bugs.mojang.com, minecraft.net, and APIs
+        -- [Minecraft: Java Edition](https://report.bugs.mojang.com/servicedesk/customer/portal/2) --- Windows, macOS, and Linux
+        -- [Minecraft Launcher](https://report.bugs.mojang.com/servicedesk/customer/portal/7) --- Bugs about the Minecraft Launcher specifically
+        -- [Minecraft (Bedrock codebase)](https://report.bugs.mojang.com/servicedesk/customer/portal/6) --- Android, iOS, Windows 10/11, ChromeOS, Xbox, Nintendo Switch, PlayStation, and Amazon Fire
+        -- [Minecraft Bedrock Dedicated Server](https://report.bugs.mojang.com/servicedesk/customer/portal/4) --- Bugs about the Bedrock Dedicated Server software
+        -- [Minecraft Realms](https://report.bugs.mojang.com/servicedesk/customer/portal/9) --- Bugs which only occur on Realms but not in singleplayer or on third-party servers
+        -- [Mojang Web Services](https://report.bugs.mojang.com/servicedesk/customer/portal/10) --- Bugs about the various web services, including bugs.mojang.com, minecraft.net, and APIs
 
         %quick_links%
       fillname: []
