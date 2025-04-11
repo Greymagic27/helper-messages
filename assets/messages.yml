@@ -289,7 +289,7 @@ messages:
 
         We're currently not taking bug reports for the Combat Test experiment; it is for testing the combat system only. Please leave any combat-related feedback on the [Reddit post](https://www.reddit.com/r/Minecraft/comments/idvujw/here_we_go_again_combat_test_snapshot_8b/) or on the [Minecraft Feedback Discord server](https://aka.ms/MinecraftFeedbackDiscord).
 
-        If you need help or support, please visit the [Community Support Discord server](https://discord.gg/58Sxm23) or the [Official Minecraft discord server](discord.gg/minecraft)
+        If you need help or support, please visit the [Community Support Discord server](https://discord.com/invite/minecraft) or the [Official Minecraft discord server](discord.gg/minecraft)
 
         %quick_links%
       fillname: []
@@ -448,7 +448,7 @@ messages:
         We're tracking this issue in https://report.bugs.mojang.com/servicedesk/customer/portal/%project_id%/%s%, so this ticket is being resolved and linked as a **duplicate**.
 
         That ticket has already been resolved as invalid, which means this is a technical support issue. Please take a look at the parent ticket (%s%) and see if a solution is provided there.
-        If you need additional help to fix this problem, please contact *%help_discord%* and refer to this ticket by providing a link.
+        If you need additional help to fix this problem, please contact **%help_discord%** and refer to this ticket by providing a link.
 
         If you haven't already, you might like to make use of the [**search feature**](https://report.bugs.mojang.com/servicedesk/customer/portal/%project_id%) to see if the issue has already been mentioned.
 
@@ -735,7 +735,7 @@ messages:
         **Thank you for your report!**
         However, this issue is **Invalid**.
 
-        Simply stating that "My game is laggy" is not helpful for Mojang to diagnose your issue. If you can pinpoint a specific cause when lag happens for you, please open a new report for that specific issue. If you think this might be a hardware issue please contact *%help_discord%* as they might be able to help with your issue.
+        Simply stating that "My game is laggy" is not helpful for Mojang to diagnose your issue. If you can pinpoint a specific cause when lag happens for you, please open a new report for that specific issue. If you think this might be a hardware issue please contact **%help_discord%** as they might be able to help with your issue.
 
         Keep in mind that Mojang is constantly optimizing the game and simply playing the game provides feedback to Mojang on which parts cause performance issues.
 
@@ -1261,7 +1261,7 @@ messages:
         However, this issue is **Invalid**
 
         This is a technical support issue; this site is for bug reports only. We do not have the resources to provide you with technical support.
-        Please contact *%help_discord%* for assistance and refer to this ticket by providing a link.
+        Please contact **%help_discord%** for assistance and refer to this ticket by providing a link.
 
         %quick_links%
       fillname: []
