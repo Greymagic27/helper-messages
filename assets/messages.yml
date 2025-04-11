@@ -1434,8 +1434,7 @@ messages:
         [Full Version History](https://minecraft.wiki/w/Java_Edition_version_history) -- [Snapshot Version History](https://minecraft.wiki/w/Java_Edition_version_history/Development_versions) -- [Feature Requests and Suggestions](https://feedback.minecraft.net)
 
         %quick_links%
-      fillname:
-        - Enter reason/source
+      fillname: []
     - project:
         - bds
         - mcpe
@@ -1454,8 +1453,7 @@ messages:
         [Full Version History](https://minecraft.wiki/w/Bedrock_Edition_version_history) -- [Snapshot Version History](https://minecraft.wiki/w/Bedrock_Edition_version_history/Development_versions) -- [Feature Requests and Suggestions](https://feedback.minecraft.net)
 
         %quick_links%
-      fillname:
-        - Enter reason/source
+      fillname: []
     - project: mcl
       name: Works As Intended
       shortcut: wai
@@ -1472,8 +1470,7 @@ messages:
         [Full Version History](https://minecraft.wiki/w/Launcher_version_history) -- [Feature Requests and Suggestions](https://feedback.minecraft.net)
 
         %quick_links%
-      fillname:
-        - Enter reason/source
+      fillname: []
   wf:
     - project:
         - bds
@@ -1494,6 +1491,7 @@ messages:
         Please note that this is not the same as Working as Intended, as this bug report correctly describes behavior in the game that might not be the intended or desirable behavior, but it will not be fixed right now. Sometimes, this is because the issue reported is minor and/or impossible to change without large architectural changes to the code base.
 
         %quick_links%
+      fillname: []
   wrong-project-moved:
     - project:
         - bds
