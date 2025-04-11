@@ -1436,7 +1436,9 @@ messages:
         %quick_links%
       fillname:
         - Enter reason/source
-    - project: mcpe
+    - project:
+        - bds
+        - mcpe
       name: Works As Intended
       shortcut: wai
       category: misc
@@ -1472,6 +1474,26 @@ messages:
         %quick_links%
       fillname:
         - Enter reason/source
+  wf:
+    - project:
+        - bds
+        - mc
+        - mcd
+        - mcl
+        - mclg
+        - mcpe
+        - realms
+        - web
+      name: Won't fix
+      shortcut: wf
+      category: misc
+      message: |-
+        **Thank you for your report!**
+        After consideration, the issue is being closed as Won't Fix.
+
+        Please note that this is not the same as Working as Intended, as this bug report correctly describes behavior in the game that might not be the intended or desirable behavior, but it will not be fixed right now. Sometimes, this is because the issue reported is minor and/or impossible to change without large architectural changes to the code base.
+
+        %quick_links%
   wrong-project-moved:
     - project:
         - bds
