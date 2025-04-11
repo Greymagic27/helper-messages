@@ -35,7 +35,7 @@ variables:
       value: |-
         *Quick Links*:
         📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/)
-         📓 [Project Summary](https://report.bugs.mojang.com/servicedesk/customer/portal/7) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki)
+        📓 [Project Summary](https://report.bugs.mojang.com/servicedesk/customer/portal/7) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki)
     - project: mcpe
       value: |-
         *Quick Links*:
@@ -44,7 +44,7 @@ variables:
     - project: realms
       value: |-
         *Quick Links*:
-       📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/)
+        📓 [Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp) -- 💬 [Community Support](https://discord.com/invite/minecraft) -- 📧 [Mojang Support (Technical Issues)](https://aka.ms/Minecraft-Support) -- 📧 [Microsoft Support (Account Issues)](https://support.xbox.com/contact-us/)
         📓 [Project Summary](https://report.bugs.mojang.com/servicedesk/customer/portal/9) -- ✍️ [Feedback and Suggestions](https://aka.ms/MinecraftFeedbackDiscord) -- 📖 [Game Wiki](https://minecraft.wiki) -- 📖 [FAQs](https://www.minecraft.net/en-us/article/what-are-minecraft-realms)
     - project: web
       value: |-
