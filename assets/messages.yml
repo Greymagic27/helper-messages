@@ -920,7 +920,7 @@ messages:
       shortcut: env
       category: notice
       message:
-        "{panel:borderColor=orange}(!) The environment is supposed to only contain PC details.{panel}"
+        "***The environment is supposed to only contain PC details.***"
       fillname: []
   panel-future-version:
     - project:
@@ -931,7 +931,7 @@ messages:
       shortcut: fut-old
       category: notice
       message:
-        "{panel:borderColor=orange}(!) Please do not mark _Unreleased Versions_ as affected. You don't have access to them yet.{panel}"
+        "***Please do not mark _Unreleased Versions_ as affected. You don't have access to them yet.***"
       fillname: []
   panel-mark-private:
     - project:
@@ -946,8 +946,8 @@ messages:
       shortcut: mkpriv
       category: notice
       message:
-        "{panel:borderColor=orange}(!) Your bug report has been marked as _private_,
-        as it contains some sensitive privacy information (e.g. an email address or session ID).{panel}"
+        "***Your bug report has been marked as _private_,
+        as it contains some sensitive privacy information (e.g. an email address or session ID).***"
       fillname: []
   panel-mark-private-comment:
     - project:
@@ -962,8 +962,8 @@ messages:
       shortcut: mkprivcomm
       category: notice
       message:
-        "{panel:borderColor=orange}(!) Your comment(s) has been marked as _private_,
-        as it contains some sensitive privacy information (e.g. an email address or session ID).{panel}"
+        "***Your comment(s) has been marked as _private_,
+        as it contains some sensitive privacy information (e.g. an email address or session ID).***"
       fillname: []
   panel-mojang-priority:
     - project:
@@ -978,7 +978,7 @@ messages:
       shortcut: prio
       category: notice
       message:
-        '{panel:borderColor=orange}(!) Do not try to change "Mojang Priority". It may only be changed by the developers. Consider this a warning.{panel}'
+        '***Do not try to change "Mojang Priority". It may only be changed by the developers. Consider this a warning.***'
       fillname: []
   panel-note:
     - project:
@@ -993,9 +993,9 @@ messages:
       shortcut: note
       category: notice
       message: |-
-        {panel:bgColor=#deebff}
+        ***
         %s%
-        {panel}
+        ***
       fillname:
         - Enter note here.
   panel-private-issue:
@@ -1011,7 +1011,7 @@ messages:
       shortcut: priv
       category: notice
       message:
-        "{panel:borderColor=orange}(!) Please do not mark issues as _private_, unless your bug report is an exploit or contains information about your username or server.{panel}"
+        "***Please do not mark issues as _private_, unless your bug report is an exploit or contains information about your username or server.***"
       fillname: []
   panel-removed-version:
     - project:
@@ -1024,11 +1024,9 @@ messages:
       shortcut: remver
       category: notice
       message: |-
-        {panel:borderColor=orange}(!)
-        Please do not add Affected Versions to resolved reports.
+        ***Please do not add Affected Versions to resolved reports.
 
-        Have a look at the Resolution and the comments to see why this ticket has been resolved. If you think this ticket has been resolved erroneously you can contact the Mojira staff on **[Discord](https://discord.com/invite/rpCyfKV)** or **[Reddit](https://www.reddit.com/r/Mojira/)**.
-        {panel}
+        Have a look at the Resolution and the comments to see why this ticket has been resolved. If you think this ticket has been resolved erroneously you can contact the Mojira staff on **[Discord](https://discord.com/invite/rpCyfKV)** or **[Reddit](https://www.reddit.com/r/Mojira/)**.***
       fillname: []
   panel-unmark-private-issue:
     - project:
@@ -1043,7 +1041,7 @@ messages:
       shortcut: unpriv
       category: notice
       message:
-        "{panel:borderColor=orange}(!) Please do not unmark issues from _private_ after a moderator had set it that way.{panel}"
+        "***Please do not unmark issues from _private_ after a moderator had set it that way.***"
       fillname: []
   panel-workaround:
     - project:
@@ -1058,9 +1056,9 @@ messages:
       shortcut: workaround
       category: notice
       message: |-
-        {panel:bgColor=#deebff}
+        ***
         %s%
-        {panel}
+        ***
       fillname:
         - Enter workaround here.
   parity-issue:
