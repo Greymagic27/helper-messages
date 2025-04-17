@@ -318,6 +318,24 @@ messages:
 
         %quick_links%
       fillname: []
+  crash-logged-automatically:
+    - project:
+        - bds
+        - mcpe
+        - realms
+      name: Crash logged automatically
+      shortcut: autocrash
+      category: invalid
+      message: |-
+        **Thank you for your report!**
+        However, this issue is **Invalid** for the bug tracker.
+
+        Crashes such as these are logged automatically by the game or server and investigated further by the development team internally, so they are not generally kept on the bug tracker.
+
+        If you can provide a list of steps that someone else can follow to consistently reproduce a crash then feel free to create a new report. Please be sure to always search for duplicates before creating any new report. Please see the **[Bug Tracker Guidelines](https://aka.ms/MCBugTrackerHelp)** for more information.
+
+        %quick_links%
+      fillname: []
   debug-stick:
     - project: mc
       name: Debug Stick
