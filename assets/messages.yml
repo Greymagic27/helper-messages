@@ -286,6 +286,23 @@ messages:
 
         %quick_links%
       fillname: []
+  cannot-reproduce:
+    - project:
+      - bds
+      - mc
+      - mcl
+      - mcpe
+      - realms
+      - web
+      name: Cannot Reproduce
+      shortcut: cr
+      category: misc
+      message: |-
+        **Thank you for your report!**
+        Unfortunately, the described issue cannot be reproduced. Therefore, this ticket is being resolved as **Cannot Reproduce**
+
+        %quick_links%
+      fillname: []
   combat-test:
     - project: mc
       name: Combat Test
@@ -298,24 +315,6 @@ messages:
         We're currently not taking bug reports for the Combat Test experiment; it is for testing the combat system only. Please leave any combat-related feedback on the [Reddit post](https://www.reddit.com/r/Minecraft/comments/idvujw/here_we_go_again_combat_test_snapshot_8b/) or on the [Minecraft Feedback Discord server](https://aka.ms/MinecraftFeedbackDiscord).
 
         If you need help or support, please visit the [Community Support Discord server](https://discord.com/invite/minecraft) or the [Official Minecraft discord server](discord.gg/minecraft)
-
-        %quick_links%
-      fillname: []
-  crash-logged-automatically:
-    - project:
-        - bds
-        - mcpe
-        - realms
-      name: Crash logged automatically
-      shortcut: autocrash
-      category: invalid
-      message: |-
-        **Thank you for your report!**
-        However, this issue is **Invalid** for the bug tracker.
-
-        Crashes such as these are logged automatically by the game or server and investigated further by the development team internally, so they are not generally kept on the bug tracker.
-
-        If you can provide a list of steps that someone else can follow to consistently reproduce a crash then feel free to create a new report. Please be sure to always search for duplicates before creating any new report. Please see the [**Bug Tracker Guidelines**](https://aka.ms/MCBugTrackerHelp) for more information.
 
         %quick_links%
       fillname: []
