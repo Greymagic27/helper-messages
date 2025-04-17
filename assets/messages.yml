@@ -202,7 +202,7 @@ messages:
         %awaiting_response%
         %quick_links%
       fillname: []
-  attach-world-file:
+  attach-world-file-mc:
     - project:
         - mc
         - mcl
@@ -217,6 +217,7 @@ messages:
         %awaiting_response%
         %quick_links%
       fillname: []
+  attach-world-file-mcpe:
     - project:
       - mcpe
       name: Attach world file
@@ -237,6 +238,7 @@ messages:
 
         %awaiting_response%
         %quick_links%
+        
   awaiting-response-generic:
     - project:
       - bds
