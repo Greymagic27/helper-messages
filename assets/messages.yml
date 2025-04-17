@@ -186,6 +186,7 @@ messages:
         %awaiting_response%
         %quick_links%
       fillname: []
+  attach-video-mcpe:
     - project:
         - mcpe
         - bds
