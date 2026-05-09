@@ -30,7 +30,7 @@ jobs:
       - name: Deploy
         # Only deploy for commits on 'master'
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4.8.0
         with:
           branch: gh-pages
           folder: dist
